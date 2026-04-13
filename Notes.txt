@@ -1,0 +1,125 @@
+# testing comment
+
+
+Error Lense from Extension to detect code error before execution
+
+
+// lowest whole number
+
+== for comparision
+All the conditions must be true for True logis
+
+
+
+
+
+
+
+
+
+
+
+A		B			AND		OR			NOT
+True	True		True	True		False
+True	False		False	True		False
+False	True		False	True		False
+False	False		False	False		True
+
+
+
+Ctrl/ To comment multiple lines
+
+
+if (): (Colon denotes code block start)
+		(_____________)
+		(_____________)
+		(_____________)
+		(_____________)
+elif ("-----")
+		-------------
+		-------------
+		-------------
+elif ("-----")
+		-------------
+		-------------
+		-------------
+	print ("Hello")
+
+else
+	print ("else")
+	
+	
+	
+	
+	
+	PEP8
+	
+	
+percentage = float(input("Enter your percentage:"))
+if (percentage >100 or percentage <0):
+    print("Invalid input")
+elif (80 <= percentage <= 100):
+    print("Distinction")
+elif (60 <= percentage < 80):
+    print("First Division")
+elif (45 <= percentage < 60):
+    print("Second Division")
+elif (40 <= percentage < 45):
+    print("Third Division")
+else:
+    print("Fail")
+	
+	percentage = float(input ("Enter your percentage:"))
+	if (percentage >100 or percentage <0):
+	print ("Invalid Input")
+	
+	
+	To generate public key
+	ssh-keygen
+	SHA256:w8QMspzRPc+HLj7j/UR1sZDnLvuS/KSDUwcKNlKQauU drsaz@DESKTOP-32PK0UJ
+	ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDHpzDGE+i6QdMBV3jNknRnQ4xZCGvJcIbjkCPabfJU4 drsaz@DESKTOP-32PK0UJ
+
+	+--[ED25519 256]--+
+|    o..oo    ... |
+|   . =.*o.   ...o|
+|    + + =+ .  +..|
+|     o E ++ .o o |
+|    .   S.o.o o  |
+|        ...o o o |
+|       . .  = =. |
+|        +. + *o  |
+|       ..o..o.=o |
++----[SHA256]-----+
+
+
+Remote URL: git@github.com:Dhruba2020/Python-KMC.git
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
