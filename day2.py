@@ -1,14 +1,13 @@
 #Input  Function
-a="Suman"
+a="22"
 b=55
-
 a = input()
 
 print ("The 1st value .....")
 print ("The 2nd value....")
 
 print ("a+b")
-
+print ("a*b")
 print ("The value of a is", a)
 
 
