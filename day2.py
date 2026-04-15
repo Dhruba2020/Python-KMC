@@ -1,6 +1,6 @@
 #Input  Function
 a="Suman"
-b=1001
+b=55
 
 a = input()
 

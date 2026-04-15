@@ -81,10 +81,10 @@ print (1==1 and "test"!="hello")
 
 
 q=2
-r=2
+r=4
 s=6
-t=3
-u=4
+t=8
+u=10
 print (q+r+s*t/u)
 print ("t=s")
 print (q==r)
