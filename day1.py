@@ -103,5 +103,3 @@ name = input ("Enter you name:")
 age = int (input ("Enter you age:"))
 
 print ("My name is {} and I am {} years old". format("Alisha", 25))
-
-
