@@ -59,8 +59,3 @@ elif 40 <= percentage < 45:
     print("Third Division")
 else:
     print("Fail")
-
-    
-
-
-
