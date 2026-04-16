@@ -94,20 +94,59 @@ ap .append ("Pears")
 print (ap)
 
 dataA = ["apple", 54, 71.3, False, "Orange", True, 21, 13.8]
-dataA .insert ("Camera")
+dataA .insert (20000, "Camera")
 print (dataA)
 
 x= (2,4,6,8)
 y=(3,5,7,9)
-x.extend (y)
-y.extend (x)
+# x.extend (y)
+# y.extend (x)
 
 print (x)
 print (y)
 
 x= (2,4,6,8)
 y=(3,5,7,9)
-Z = x + y
+# Z = x + y
 
-print (z)
+# print (z)
 
+
+#DEL, REMOVE, POP, CLEAR
+#Del: deletes index or value, Remove: Removes value, Pop: Removes index or last value, Clear: clears all list)
+
+dataB = ["apple", 54, 71.3, False, "Orange", True, 21, 13.8]
+#del
+del dataB [0]
+print (dataB)
+
+#remove
+dataC = ["apple", 54, 71.3, False, "Orange", True, 21, 13.8]
+dataC.remove (71.3)
+print (dataC)
+
+#pop: it removes last value if specific value of index is not defined
+dataD = ["apple", 54, 71.3, False, "Orange", True, 21, 13.8]
+dataD.pop (0)
+print (dataD)
+
+#clear: This clears all the variables
+dataE = ["apple", 54, 71.3, False, "Orange", True, 21, 13.8]
+dataE.clear ()
+print (dataE)
+
+#COUNT
+
+teachers=["Sangam", "Sagun", "Ramesh", "Ramit", "Sagun", "Sangam"]
+count_teacher = teachers.count ("Sangam")
+print (count_teacher)
+
+#REVERSE
+teachers=["Sangam", "Sagun", "Ramesh", "Ramit", "Sagun", "Sangam"]
+teachers.reverse ()
+print (teachers)
+
+#Sort
+teachers=["Sangam", "Sagun", "Ramesh", "Ramit", "Sagun", "Sangam"]
+teachers.sort ()
+print (teachers)
