@@ -18,24 +18,24 @@ list3 = [True, False, True, True, False, True]
 list4 = [17.3, 71.3, 34.5, 87.0, 23.4]
 list5 = ["apple", 54, 71.3, False, "Orange", True, 21, 13.8]
 
-# print (list1)
-#print(list1[-7])
-# isinstance
-#print(type(list1))
+print (list1)
+print(list1[-7])
+isinstance
+print(type(list1))
 
-#print(len(list1))  # to find the length of list
+print(len(list1))  # to find the length of list
 
 
 
-# print(isinstance(list5[len(list5) - 1], float))
-# print(isinstance(list5[-1], float))
+print(isinstance(list5[len(list5) - 1], float))
+print(isinstance(list5[-1], float))
 
-# #Slicing
-# a= [1,2,3,4,5,6,7,8,9]
+#Slicing
+a= [1,2,3,4,5,6,7,8,9]
 
-# print (a [0:4])
-# print (a [3:6])
-# print (a [1:2])
+print (a [0:4])
+print (a [3:6])
+print (a [1:2])
 
 
 
@@ -46,15 +46,15 @@ list5.append ("Hello")
 
 # print (list5)
 
-# data =[]
-# data.append (1)
-# print (data)
+data =[]
+data.append (1)
+print (data)
 
 
-# #2. Insert
-# dataz = ["apple", 54, 71.3, False, "Orange", True, 21, 13.8]
-# dataz.insert (20000, "iphone")
-# print (dataz)
+#2. Insert
+dataz = ["apple", 54, 71.3, False, "Orange", True, 21, 13.8]
+dataz.insert (20000, "iphone")
+print (dataz)
 
 
 #3. Extend
